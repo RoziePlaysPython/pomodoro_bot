@@ -1,0 +1,3 @@
+[submodule "TokenValidityCheck"]
+	path = TokenValidityCheck
+	url = git@github.com:RoziePlaysPython/TokenValidityCheck.git
